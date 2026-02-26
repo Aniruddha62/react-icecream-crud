@@ -4,8 +4,6 @@ This is a React.js practice project that implements basic CRUD (Create, Read, Up
 
 The project demonstrates component-based architecture, state management using React Hooks, and dynamic UI updates without page reloads.
 
----
-
 ## 🚀 Tech Stack
 
 - React.js
@@ -13,8 +11,6 @@ The project demonstrates component-based architecture, state management using Re
 - CSS
 - React Hooks (useState, useEffect)
 - Component-based architecture
-
----
 
 ## ✨ Features
 
@@ -26,8 +22,6 @@ The project demonstrates component-based architecture, state management using Re
 - Reusable components
 - Clean and responsive layout
 
----
-
 ## 📁 Project Structure
 
 /src
@@ -37,8 +31,6 @@ The project demonstrates component-based architecture, state management using Re
 - index.js  
 - Styling files  
 
----
-
 ## 🔄 CRUD Operations
 
 - **Create** → Add new ice cream item  
@@ -46,10 +38,7 @@ The project demonstrates component-based architecture, state management using Re
 - **Update** → Modify product details  
 - **Delete** → Remove ice cream item  
 
----
-## Author
+## 👨‍💻 Author
 
-ANIRUDDHA BHATTACHARYYA
-
-This project was built as a practice React application to strengthen frontend development and CRUD implementation skills.
+**ANIRUDDHA BHATTACHARYYA**
 
